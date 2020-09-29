@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/fl_white_board_bg"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"></FrameLayout>
+
+    <TextureView
+        android:id="@+id/ttv_pre_video"
+        android:layout_width="match_parent"
+        app:layout_constraintTop_toBottomOf="@+id/fl_white_board_bg"
+        android:layout_height="200dp" />
+
+    <include layout="@layout/zego_whiteboard_tools_view" />
+
+    <Button
+        android:id="@+id/bt_select_file"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="选择文件"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

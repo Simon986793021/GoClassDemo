@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: im.zego:express-video-whiteboard:1.15.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdf0ea8c9f1772a9576d7ea380f7f782/jetified-express-video-whiteboard-1.15.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdf0ea8c9f1772a9576d7ea380f7f782/jetified-express-video-whiteboard-1.15.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdf0ea8c9f1772a9576d7ea380f7f782/jetified-express-video-whiteboard-1.15.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bdf0ea8c9f1772a9576d7ea380f7f782/jetified-express-video-whiteboard-1.15.0/jars/libs/ve.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-video-whiteboard/1.15.0/bd5876f53d734d1d33617751fff6c1d1f22bf3da/express-video-whiteboard-1.15.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/im.zego/express-video-whiteboard/1.15.0/e3917cff70cae0887495ceb611ec7dd62fe3e3a2/express-video-whiteboard-1.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
